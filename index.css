@@ -1,0 +1,84 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    color: #000;
+}
+body{
+    background: #e1f5fe;
+}
+h1{
+    color: #000;
+}
+ul>li>a:hover{
+    background: #cddbf3;
+}
+.page-footer{
+    background: #9ec725 ;
+}
+.fa-facebook{
+    color: #005af5;
+}
+.fa-youtube{
+    color: #e53935;
+}
+.fa-lemon{
+    color: #ffd600;
+}
+.fa-blogger{
+    color: #e65100;
+}
+a{
+    color: #000;
+}
+a:hover{
+    color: black;
+    
+}
+.col>li>a{
+    text-align: center;
+}
+p{
+    text-wrap: wrap;
+}
+/* navbar */
+body{
+    background: #cddbf3;
+}
+
+h1{
+    color: #000;
+}
+h3{
+    color: #fff;
+}
+nav{
+    background: #fff;
+}
+.brand-logo>i{
+    margin-left: 10px;
+}
+
+ul>li>a{
+    color: #000;
+}
+ul>li>a.active{  /* active navbar  */
+    color: #fff;
+    background: #3070e0;
+}
+.nav-extended>.nav-content>ul>li>a:hover{ /* extended navbar hover */
+    background: #3070e065;
+}
+.nav-content>.tabs>.tab>a.active{  /* extended navbar active */
+    color: #fff;
+    background:  #709ff0;
+}
+#mobile-demo{
+    color: #000;
+}
+.fa-user-group, .fa-people-group, .fa-store, .fa-video{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: black;
+}
+.divider{
+    border: 1px dashed #3070e065;
+}
